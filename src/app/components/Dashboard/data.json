@@ -1,0 +1,187 @@
+{
+    "tasks" : {
+        "remainingCalls": "12",
+        "today": "2",
+        "total": "6"
+    },    
+
+    "Critical/Others": {
+        "Critical": [
+            {
+                "name": "John Wick",
+                "data":[
+                    {
+                        "date": "5 Sep 2023",
+                        "task": "Customer placed a redemption for Rs. 250,000",
+                        "status": "Pending",
+                        "action": "Follow up"
+                    },
+                    {
+                        "date": "6 Sep 2023",
+                        "task": "Insufficient Funds",
+                        "status": "Pending",
+                        "action": "Follow up"
+                    },
+                    {
+                        "date": "7 Sep 2023",
+                        "task": "Scheme suspended",
+                        "status": "WIP",
+                        "action": "Follow up"
+                    }
+                ]
+            },
+            {
+                "name": "Bruce Wayne",
+                "data":[
+                    {
+                        "date": "8 Sep 2023",
+                        "task": "Portfolio review is due",
+                        "status": "WIP",
+                        "action": "Follow up"
+                    },
+                    {
+                        "date": "10 Sep 2023",
+                        "task": "Insufficient Funds",
+                        "status": "Pending",
+                        "action": "Follow up"
+                    },
+                    {
+                        "date": "11 Sep 2023",
+                        "task": "Scheme suspended",
+                        "status": "WIP",
+                        "action": "Add comments"
+                    }
+                ]
+            }
+        ],
+
+        "Others": [
+            {
+                "name":"John Wick",
+                "date":"21 Sep 2023",
+                "time": "10:00 am",
+                "task":"Appointment",
+                "status":"Pending",
+                "action":"Call"
+            },
+            {
+                "name":"Bruce Wayne",
+                "date":"21 Sep 2023",
+                "time": "10:30 am",
+                "task":"Birthday",
+                "status":"Pending",
+                "action":"Send wishes"
+            },
+            {
+                "name":"Robert",
+                "date":"21 Sep 2023",
+                "time": "-",
+                "task":"Birthday",
+                "status":"Completed",
+                "action":"tick"
+            },
+            {
+                "name":"Bruce Wayne",
+                "date":"21 Sep 2023",
+                "time": "10:40 am",
+                "task":"Appointment",
+                "status":"Pending",
+                "action":"Call"
+            },
+            {
+                "name":"Robert",
+                "date":"21 Sep 2023",
+                "time": "-",
+                "task":"Birthday",
+                "status":"Pending",
+                "action":"Send wishes"
+            }
+        ]
+    },
+
+    "Monitoring Target & Client AUM":{
+        "Target AUM": "10%",
+        "current AUM": "8%",
+        "AUM change": "-2%",
+        "Target SIP": "10%",
+        "Current SIP": "18%",
+        "SIP change": "+3%"
+    },
+
+    "Client Portfolio Moniter":{
+        "Total users": "300",
+        "Users change": "0",
+        "Total AUM": "50,00,00,00",
+        "AUM change": "+3%",
+        "Total SIP": "3,00,00,000",
+        "sip change": "+50%"
+    },
+
+    "SIP Book": {
+        "Total SIP Book" : "300 Cr",
+        "Total SIP Executed": "280 Cr"
+    },
+
+    "Reminder": [
+
+    ],
+
+    "Redemption Dashboard": {
+        "Total user on redemption page": "3000",
+        "Total redemption today": "₹ 3,000",
+        "Total redemption MTD": "₹ 3,00,000",
+        "Total redemption YTD": "₹ 4,00,000"
+    },
+
+    "Portfolio Review": [
+        {
+            "count": "32",
+            "due": "Due In February"
+        },
+        {
+            "count": "2",
+            "due": "Due This Week"
+        },
+        {
+            "count": "2",
+            "due": "Overdue"
+        }
+    ],
+
+    "Early Risk Warning System": {
+        "Early Risk Warning System": [
+            {
+                "count": "145",
+                "type" : "Asset Allocation"
+            },
+            {
+                "count": "14",
+                "type" : "Portfolio Quality"
+            },
+            {
+                "count": "12",
+                "type" : "Diversification"
+            },
+            {
+                "count": "17",
+                "type" : "Liquidity"
+            }
+        ],
+
+        "Enterprise-wide Risks":[
+            {
+                "Risk": "Franklin Templeton Debt",
+                "Description": "consectetur adipiscing elit. Donec ullamcorper aliquam interdum.",
+                "Clients": "80/120",
+                "Action": "View Client"
+            },
+            {
+                "Risk": "Axis Bank",
+                "Description": "Vivamus varius iaculis eleifend. Nam id tristique nulla, nec convallis nulla.",
+                "Clients": "90/300",
+                "Action": "View Client"
+            }
+        ]
+    }
+
+}

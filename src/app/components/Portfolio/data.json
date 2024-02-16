@@ -1,0 +1,1435 @@
+{
+    "clients":[
+        {
+            "Client Name": "Naveen Kumar K",
+            "Email": "naveenkumark@gmail.com",
+            "Mobile": 987654321,
+            "Basic Details": {
+                "AUM": "₹31,14,580",
+                "Net Inflow YTD (without MTM)": "₹5,34,000",
+                "Net Inflow Growth (without MTM)": "22%",
+                "Since Inception Returns": "₹22%",
+                "RiskScore": 7
+            },
+            "Asset Allocation Risk": {
+                "ABC Number": "94-6-0",
+                "Equity Exposure": 94,
+                "Target Exposure": 70,
+                "Equity Exposure Deviation": 24,
+                "Debt Exposure": 6,
+                "Gold & Others Exposure": "-"
+            },
+            "Cash Allocation": {
+                "Overnight/Liquid Exposure": 3
+            },
+            "Portfolio Quality Risk": {
+                "5 star rated funds": 48,
+                "4 star rated funds": 3,
+                "Low Rated Fund": 32,
+                "Not Rated Fund Exposure": 17,
+                "FundsIndia Select Fund Exposure": 45
+            },
+            "Diversification Risk": {
+                "Highest AMC Exposure": "23%",
+                "Highest Fund Exposure": "23%",
+                "2nd Highest Fund Exposure": "10%", 
+                "Total Number of Non Debt Funds": 2,
+                "Total Number of Funds": 20
+            },
+            "Liquidity" : {
+                "% of Portfolio under lock-in": "-",
+                "ELSS Exposure":  37
+            },
+            "Cost": {
+                "Portfolio Expense Ratio": 1.3
+            },
+            "Equity Monitor": {
+                "Equity Exposure": 94,
+                "Active Large Cap Fund Exposure": "-",
+                "Sector/Thematic Exposure": 7,
+                "Small Cap Exposure": "-",
+                "5 Star Funds": 42,
+                "4 Star Funds": 3,
+                "<3 Star Funds": 32,
+                "1 Star Funds": "-",
+                "2 Star Funds": 6,
+                "3 Star Funds": 25,
+                "Not Rated": 17,
+                "Blend": 60,
+                "Quality": 3,
+                "Value": "-",
+                "Mid & Small": 10,
+                "Global": "-",
+                "Others": 21
+            },
+            "Debt Monitor": {
+                "Debt Exposure": 6,
+                "Net YTM": 7.00,
+                "% of AAA Equivalent": 94,
+                "5 Star Funds": 6,
+                "4 Star Funds": "-",
+                "<3 Star Funds": "-",
+                "1 Star Funds": "-",
+                "2 Star Funds": "-",
+                "3 Star Funds": "-",
+                "Not Rated": "-",
+                "Liquid & Overnight": 3,
+                "UST": "-",
+                "Low Duration": "-",
+                "Short Duration": 3,
+                "Medium Duration": "-",
+                "Logn Duration": "-",
+                "Credit Risk": "-",
+                "Dynamic Funds": "-",
+                "Conservative Hybrid": "-",
+                "Others": "-"
+            },
+            "SIP Book": {
+                "Total SIP Value": "-",
+                "Equity": "-",
+                "Debt": "-",
+                "Others": "-",
+                "5 Star": "-",
+                "4 Star": "-",
+                "<3 Star": "-",
+                "Not Rated": "-"
+            }
+        },
+
+        {
+            "Client Name": "Sameeraudarya",
+            "Email": "Sameeraudarya@gmail.com",
+            "Mobile": 987654321,
+            "Basic Details": {
+                "AUM": "₹50,08,290",
+                "Net Inflow YTD (without MTM)": "₹-15,14,054",
+                "Net Inflow Growth (without MTM)": "-27%",
+                "Since Inception Returns": "₹43%",
+                "RiskScore": 9
+            },
+            "Asset Allocation Risk": {
+                "ABC Number": "100-0-0",
+                "Equity Exposure": 100,
+                "Target Exposure": 80,
+                "Equity Exposure Deviation": 20,
+                "Debt Exposure": "-",
+                "Gold & Others Exposure": "-"
+            },
+            "Cash Allocation": {
+                "Overnight/Liquid Exposure": "-"
+            },
+            "Portfolio Quality Risk": {
+                "5 star rated funds": 5,
+                "4 star rated funds": "-",
+                "Low Rated Fund": 94,
+                "Not Rated Fund Exposure": 1,
+                "FundsIndia Select Fund Exposure": 4
+            },
+            "Diversification Risk": {
+                "Highest AMC Exposure": "31%",
+                "Highest Fund Exposure": "27%",
+                "2nd Highest Fund Exposure": "20%", 
+                "Total Number of Non Debt Funds": 6,
+                "Total Number of Funds": 16
+            },
+            "Liquidity" : {
+                "% of Portfolio under lock-in": "-",
+                "ELSS Exposure":  5
+            },
+            "Cost": {
+                "Portfolio Expense Ratio": 1.7
+            },
+            "Equity Monitor": {
+                "Equity Exposure": 100,
+                "Active Large Cap Fund Exposure": 18,
+                "Sector/Thematic Exposure": "-",
+                "Small Cap Exposure": 5,
+                "5 Star Funds": 4,
+                "4 Star Funds": "-",
+                "<3 Star Funds": 94,
+                "1 Star Funds": 1,
+                "2 Star Funds": 11,
+                "3 Star Funds": 82,
+                "Not Rated": 1,
+                "Blend": 53,
+                "Quality": "-",
+                "Value": 4,
+                "Mid & Small": 37,
+                "Global": 1,
+                "Others": 5
+            },
+            "Debt Monitor": {
+                "Debt Exposure": "-",
+                "Net YTM": "-",
+                "% of AAA Equivalent": "-",
+                "5 Star Funds": "-",
+                "4 Star Funds": "-",
+                "<3 Star Funds": "-",
+                "1 Star Funds": "-",
+                "2 Star Funds": "-",
+                "3 Star Funds": "-",
+                "Not Rated": "-",
+                "Liquid & Overnight": "-",
+                "UST": "-",
+                "Low Duration": "-",
+                "Short Duration": "-",
+                "Medium Duration": "-",
+                "Logn Duration": "-",
+                "Credit Risk": "-",
+                "Dynamic Funds": "-",
+                "Conservative Hybrid": "-",
+                "Others": "-"
+            },
+            "SIP Book": {
+                "Total SIP Value": "2,000",
+                "Equity": "2,000",
+                "Debt": "-",
+                "Others": "-",
+                "5 Star": "-",
+                "4 Star": "-",
+                "<3 Star": "2,000",
+                "Not Rated": "-"
+            }
+        },
+
+        {
+            "Client Name": "Anand Raja",
+            "Email": "AnandRaja@gmail.com",
+            "Mobile": 987654321,
+            "Basic Details": {
+                "AUM": "₹25,32,887",
+                "Net Inflow YTD (without MTM)": "-",
+                "Net Inflow Growth (without MTM)": "-",
+                "Since Inception Returns": "15%",
+                "RiskScore": 12
+            },
+            "Asset Allocation Risk": {
+                "ABC Number": "94-6-0",
+                "Equity Exposure": 94,
+                "Target Exposure": 80,
+                "Equity Exposure Deviation": 14,
+                "Debt Exposure": 6,
+                "Gold & Others Exposure": "-"
+            },
+            "Cash Allocation": {
+                "Overnight/Liquid Exposure": "-"
+            },
+            "Portfolio Quality Risk": {
+                "5 star rated funds": 18,
+                "4 star rated funds": 10,
+                "Low Rated Fund": 50,
+                "Not Rated Fund Exposure": 22,
+                "FundsIndia Select Fund Exposure": 18
+            },
+            "Diversification Risk": {
+                "Highest AMC Exposure": "16%",
+                "Highest Fund Exposure": "7%",
+                "2nd Highest Fund Exposure": "7%", 
+                "Total Number of Non Debt Funds": 14,
+                "Total Number of Funds": 31
+            },
+            "Liquidity" : {
+                "% of Portfolio under lock-in": "-",
+                "ELSS Exposure":  18
+            },
+            "Cost": {
+                "Portfolio Expense Ratio": 1.8
+            },
+            "Equity Monitor": {
+                "Equity Exposure": 94,
+                "Active Large Cap Fund Exposure": 19,
+                "Sector/Thematic Exposure": 15,
+                "Small Cap Exposure": 2,
+                "5 Star Funds": 18,
+                "4 Star Funds": 10,
+                "<3 Star Funds": 44,
+                "1 Star Funds": 4,
+                "2 Star Funds": 18,
+                "3 Star Funds": 22,
+                "Not Rated": 22,
+                "Blend": 38,
+                "Quality": 13,
+                "Value": 5,
+                "Mid & Small": 8,
+                "Global": "-",
+                "Others": 21
+            },
+            "Debt Monitor": {
+                "Debt Exposure": 6,
+                "Net YTM": 6.21,
+                "% of AAA Equivalent": 92,
+                "5 Star Funds": "-",
+                "4 Star Funds": "-",
+                "<3 Star Funds": 6,
+                "1 Star Funds": 6,
+                "2 Star Funds": "-",
+                "3 Star Funds": "-",
+                "Not Rated": "-",
+                "Liquid & Overnight": "-",
+                "UST": 6,
+                "Low Duration": "-",
+                "Short Duration": "-",
+                "Medium Duration": "-",
+                "Logn Duration": "-",
+                "Credit Risk": "-",
+                "Dynamic Funds": "-",
+                "Conservative Hybrid": "-",
+                "Others": "-"
+            },
+            "SIP Book": {
+                "Total SIP Value": "-",
+                "Equity": "-",
+                "Debt": "-",
+                "Others": "-",
+                "5 Star": "-",
+                "4 Star": "-",
+                "<3 Star": "-",
+                "Not Rated": "-"
+            }
+        },
+        {
+            "Client Name": "Pradeep Pandey",
+            "Email": "PradeepPandey@gmail.com",
+            "Mobile": 987654321,
+            "Basic Details": {
+                "AUM": "₹5,10,86,234",
+                "Net Inflow YTD (without MTM)": "₹1,11,000",
+                "Net Inflow Growth (without MTM)": "-",
+                "Since Inception Returns": "63%",
+                "RiskScore": 14
+            },
+            "Asset Allocation Risk": {
+                "ABC Number": "86-14-0",
+                "Equity Exposure": 86,
+                "Target Exposure": 67.8,
+                "Equity Exposure Deviation": 18,
+                "Debt Exposure": 14,
+                "Gold & Others Exposure": "-"
+            },
+            "Cash Allocation": {
+                "Overnight/Liquid Exposure": 3
+            },
+            "Portfolio Quality Risk": {
+                "5 star rated funds": 26,
+                "4 star rated funds": 5,
+                "Low Rated Fund": 57,
+                "Not Rated Fund Exposure": 12,
+                "FundsIndia Select Fund Exposure": 25
+            },
+            "Diversification Risk": {
+                "Highest AMC Exposure": "35%",
+                "Highest Fund Exposure": "19%",
+                "2nd Highest Fund Exposure": "15%", 
+                "Total Number of Non Debt Funds": 50,
+                "Total Number of Funds": 71
+            },
+            "Liquidity" : {
+                "% of Portfolio under lock-in": "-",
+                "ELSS Exposure":  8
+            },
+            "Cost": {
+                "Portfolio Expense Ratio": 1.6
+            },
+            "Equity Monitor": {
+                "Equity Exposure": 86,
+                "Active Large Cap Fund Exposure": 8,
+                "Sector/Thematic Exposure": 10,
+                "Small Cap Exposure": 5,
+                "5 Star Funds": 25,
+                "4 Star Funds": 5,
+                "<3 Star Funds": 44,
+                "1 Star Funds": 4,
+                "2 Star Funds": 5,
+                "3 Star Funds": 35,
+                "Not Rated": 12,
+                "Blend": 21,
+                "Quality": 3,
+                "Value": 2,
+                "Mid & Small": 33,
+                "Global": 16,
+                "Others": 11
+            },
+            "Debt Monitor": {
+                "Debt Exposure": 14,
+                "Net YTM": 7.38,
+                "% of AAA Equivalent": 90,
+                "5 Star Funds": 1,
+                "4 Star Funds": "-",
+                "<3 Star Funds": 13,
+                "1 Star Funds": 2,
+                "2 Star Funds": 2,
+                "3 Star Funds": 8,
+                "Not Rated": "-",
+                "Liquid & Overnight": "-",
+                "UST": "-",
+                "Low Duration": 1,
+                "Short Duration": 1,
+                "Medium Duration": "-",
+                "Logn Duration": 12,
+                "Credit Risk": "-",
+                "Dynamic Funds": "-",
+                "Conservative Hybrid": "-",
+                "Others": "-"
+            },
+            "SIP Book": {
+                "Total SIP Value": "18,500",
+                "Equity": "18,500",
+                "Debt": "-",
+                "Others": "-",
+                "5 Star": "2,000",
+                "4 Star": "1,000",
+                "<3 Star": "15,500",
+                "Not Rated": "-"
+            }
+        },
+        {
+            "Client Name": "Madhukar Jain",
+            "Email": "MadhukarJain@gmail.com",
+            "Mobile": 987654321,
+            "Basic Details": {
+                "AUM": "₹47,25,488",
+                "Net Inflow YTD (without MTM)": "₹30,000",
+                "Net Inflow Growth (without MTM)": "1%",
+                "Since Inception Returns": "14%",
+                "RiskScore": 11
+            },
+            "Asset Allocation Risk": {
+                "ABC Number": "100-0-0",
+                "Equity Exposure": 100,
+                "Target Exposure": 50,
+                "Equity Exposure Deviation": 50,
+                "Debt Exposure": "-",
+                "Gold & Others Exposure": "-"
+            },
+            "Cash Allocation": {
+                "Overnight/Liquid Exposure": "-"
+            },
+            "Portfolio Quality Risk": {
+                "5 star rated funds": 16,
+                "4 star rated funds": "-",
+                "Low Rated Fund": 46,
+                "Not Rated Fund Exposure": 28,
+                "FundsIndia Select Fund Exposure": 26
+            },
+            "Diversification Risk": {
+                "Highest AMC Exposure": "54%",
+                "Highest Fund Exposure": "28%",
+                "2nd Highest Fund Exposure": "27%", 
+                "Total Number of Non Debt Funds": 3,
+                "Total Number of Funds": 8
+            },
+            "Liquidity" : {
+                "% of Portfolio under lock-in": "-",
+                "ELSS Exposure":  33
+            },
+            "Cost": {
+                "Portfolio Expense Ratio": 1.8
+            },
+            "Equity Monitor": {
+                "Equity Exposure": 100,
+                "Active Large Cap Fund Exposure": 26,
+                "Sector/Thematic Exposure": "-",
+                "Small Cap Exposure": "-",
+                "5 Star Funds": 26,
+                "4 Star Funds": "-",
+                "<3 Star Funds": 46,
+                "1 Star Funds": 2,
+                "2 Star Funds": 16,
+                "3 Star Funds": 28,
+                "Not Rated": 28,
+                "Blend": 73,
+                "Quality": "-",
+                "Value": "-",
+                "Mid & Small": "-",
+                "Global": "-",
+                "Others": 27
+            },
+            "Debt Monitor": {
+                "Debt Exposure": "-",
+                "Net YTM": "-",
+                "% of AAA Equivalent": "-",
+                "5 Star Funds": "-",
+                "4 Star Funds": "-",
+                "<3 Star Funds": "-",
+                "1 Star Funds": "-",
+                "2 Star Funds": "-",
+                "3 Star Funds": "-",
+                "Not Rated": "-",
+                "Liquid & Overnight": "-",
+                "UST": "-",
+                "Low Duration": "-",
+                "Short Duration": "-",
+                "Medium Duration": "-",
+                "Logn Duration": "-",
+                "Credit Risk": "-",
+                "Dynamic Funds": "-",
+                "Conservative Hybrid": "-",
+                "Others": "-"
+            },
+            "SIP Book": {
+                "Total SIP Value": "10,000",
+                "Equity": "10,000",
+                "Debt": "-",
+                "Others": "-",
+                "5 Star": "10,000",
+                "4 Star": "-",
+                "<3 Star": "-",
+                "Not Rated": "-"
+            }
+        },
+        {
+            "Client Name": "Naveen Kumar K",
+            "Email": "naveenkumark@gmail.com",
+            "Mobile": 987654321,
+            "Basic Details": {
+                "AUM": "₹31,14,580",
+                "Net Inflow YTD (without MTM)": "₹5,34,000",
+                "Net Inflow Growth (without MTM)": "22%",
+                "Since Inception Returns": "₹22%",
+                "RiskScore": 7
+            },
+            "Asset Allocation Risk": {
+                "ABC Number": "94-6-0",
+                "Equity Exposure": 94,
+                "Target Exposure": 70,
+                "Equity Exposure Deviation": 24,
+                "Debt Exposure": 6,
+                "Gold & Others Exposure": "-"
+            },
+            "Cash Allocation": {
+                "Overnight/Liquid Exposure": 3
+            },
+            "Portfolio Quality Risk": {
+                "5 star rated funds": 48,
+                "4 star rated funds": 3,
+                "Low Rated Fund": 32,
+                "Not Rated Fund Exposure": 17,
+                "FundsIndia Select Fund Exposure": 45
+            },
+            "Diversification Risk": {
+                "Highest AMC Exposure": "23%",
+                "Highest Fund Exposure": "23%",
+                "2nd Highest Fund Exposure": "10%", 
+                "Total Number of Non Debt Funds": 2,
+                "Total Number of Funds": 20
+            },
+            "Liquidity" : {
+                "% of Portfolio under lock-in": "-",
+                "ELSS Exposure":  37
+            },
+            "Cost": {
+                "Portfolio Expense Ratio": 1.3
+            },
+            "Equity Monitor": {
+                "Equity Exposure": 94,
+                "Active Large Cap Fund Exposure": "-",
+                "Sector/Thematic Exposure": 7,
+                "Small Cap Exposure": "-",
+                "5 Star Funds": 42,
+                "4 Star Funds": 3,
+                "<3 Star Funds": 32,
+                "1 Star Funds": "-",
+                "2 Star Funds": 6,
+                "3 Star Funds": 25,
+                "Not Rated": 17,
+                "Blend": 60,
+                "Quality": 3,
+                "Value": "-",
+                "Mid & Small": 10,
+                "Global": "-",
+                "Others": 21
+            },
+            "Debt Monitor": {
+                "Debt Exposure": 6,
+                "Net YTM": 7.00,
+                "% of AAA Equivalent": 94,
+                "5 Star Funds": 6,
+                "4 Star Funds": "-",
+                "<3 Star Funds": "-",
+                "1 Star Funds": "-",
+                "2 Star Funds": "-",
+                "3 Star Funds": "-",
+                "Not Rated": "-",
+                "Liquid & Overnight": 3,
+                "UST": "-",
+                "Low Duration": "-",
+                "Short Duration": 3,
+                "Medium Duration": "-",
+                "Logn Duration": "-",
+                "Credit Risk": "-",
+                "Dynamic Funds": "-",
+                "Conservative Hybrid": "-",
+                "Others": "-"
+            },
+            "SIP Book": {
+                "Total SIP Value": "-",
+                "Equity": "-",
+                "Debt": "-",
+                "Others": "-",
+                "5 Star": "-",
+                "4 Star": "-",
+                "<3 Star": "-",
+                "Not Rated": "-"
+            }
+        },
+
+        {
+            "Client Name": "Sameeraudarya",
+            "Email": "Sameeraudarya@gmail.com",
+            "Mobile": 987654321,
+            "Basic Details": {
+                "AUM": "₹50,08,290",
+                "Net Inflow YTD (without MTM)": "₹-15,14,054",
+                "Net Inflow Growth (without MTM)": "-27%",
+                "Since Inception Returns": "₹43%",
+                "RiskScore": 9
+            },
+            "Asset Allocation Risk": {
+                "ABC Number": "100-0-0",
+                "Equity Exposure": 100,
+                "Target Exposure": 80,
+                "Equity Exposure Deviation": 20,
+                "Debt Exposure": "-",
+                "Gold & Others Exposure": "-"
+            },
+            "Cash Allocation": {
+                "Overnight/Liquid Exposure": "-"
+            },
+            "Portfolio Quality Risk": {
+                "5 star rated funds": 5,
+                "4 star rated funds": "-",
+                "Low Rated Fund": 94,
+                "Not Rated Fund Exposure": 1,
+                "FundsIndia Select Fund Exposure": 4
+            },
+            "Diversification Risk": {
+                "Highest AMC Exposure": "31%",
+                "Highest Fund Exposure": "27%",
+                "2nd Highest Fund Exposure": "20%", 
+                "Total Number of Non Debt Funds": 6,
+                "Total Number of Funds": 16
+            },
+            "Liquidity" : {
+                "% of Portfolio under lock-in": "-",
+                "ELSS Exposure":  5
+            },
+            "Cost": {
+                "Portfolio Expense Ratio": 1.7
+            },
+            "Equity Monitor": {
+                "Equity Exposure": 100,
+                "Active Large Cap Fund Exposure": 18,
+                "Sector/Thematic Exposure": "-",
+                "Small Cap Exposure": 5,
+                "5 Star Funds": 4,
+                "4 Star Funds": "-",
+                "<3 Star Funds": 94,
+                "1 Star Funds": 1,
+                "2 Star Funds": 11,
+                "3 Star Funds": 82,
+                "Not Rated": 1,
+                "Blend": 53,
+                "Quality": "-",
+                "Value": 4,
+                "Mid & Small": 37,
+                "Global": 1,
+                "Others": 5
+            },
+            "Debt Monitor": {
+                "Debt Exposure": "-",
+                "Net YTM": "-",
+                "% of AAA Equivalent": "-",
+                "5 Star Funds": "-",
+                "4 Star Funds": "-",
+                "<3 Star Funds": "-",
+                "1 Star Funds": "-",
+                "2 Star Funds": "-",
+                "3 Star Funds": "-",
+                "Not Rated": "-",
+                "Liquid & Overnight": "-",
+                "UST": "-",
+                "Low Duration": "-",
+                "Short Duration": "-",
+                "Medium Duration": "-",
+                "Logn Duration": "-",
+                "Credit Risk": "-",
+                "Dynamic Funds": "-",
+                "Conservative Hybrid": "-",
+                "Others": "-"
+            },
+            "SIP Book": {
+                "Total SIP Value": "2,000",
+                "Equity": "2,000",
+                "Debt": "-",
+                "Others": "-",
+                "5 Star": "-",
+                "4 Star": "-",
+                "<3 Star": "2,000",
+                "Not Rated": "-"
+            }
+        },
+
+        {
+            "Client Name": "Anand Raja",
+            "Email": "AnandRaja@gmail.com",
+            "Mobile": 987654321,
+            "Basic Details": {
+                "AUM": "₹25,32,887",
+                "Net Inflow YTD (without MTM)": "-",
+                "Net Inflow Growth (without MTM)": "-",
+                "Since Inception Returns": "15%",
+                "RiskScore": 12
+            },
+            "Asset Allocation Risk": {
+                "ABC Number": "94-6-0",
+                "Equity Exposure": 94,
+                "Target Exposure": 80,
+                "Equity Exposure Deviation": 14,
+                "Debt Exposure": 6,
+                "Gold & Others Exposure": "-"
+            },
+            "Cash Allocation": {
+                "Overnight/Liquid Exposure": "-"
+            },
+            "Portfolio Quality Risk": {
+                "5 star rated funds": 18,
+                "4 star rated funds": 10,
+                "Low Rated Fund": 50,
+                "Not Rated Fund Exposure": 22,
+                "FundsIndia Select Fund Exposure": 18
+            },
+            "Diversification Risk": {
+                "Highest AMC Exposure": "16%",
+                "Highest Fund Exposure": "7%",
+                "2nd Highest Fund Exposure": "7%", 
+                "Total Number of Non Debt Funds": 14,
+                "Total Number of Funds": 31
+            },
+            "Liquidity" : {
+                "% of Portfolio under lock-in": "-",
+                "ELSS Exposure":  18
+            },
+            "Cost": {
+                "Portfolio Expense Ratio": 1.8
+            },
+            "Equity Monitor": {
+                "Equity Exposure": 94,
+                "Active Large Cap Fund Exposure": 19,
+                "Sector/Thematic Exposure": 15,
+                "Small Cap Exposure": 2,
+                "5 Star Funds": 18,
+                "4 Star Funds": 10,
+                "<3 Star Funds": 44,
+                "1 Star Funds": 4,
+                "2 Star Funds": 18,
+                "3 Star Funds": 22,
+                "Not Rated": 22,
+                "Blend": 38,
+                "Quality": 13,
+                "Value": 5,
+                "Mid & Small": 8,
+                "Global": "-",
+                "Others": 21
+            },
+            "Debt Monitor": {
+                "Debt Exposure": 6,
+                "Net YTM": 6.21,
+                "% of AAA Equivalent": 92,
+                "5 Star Funds": "-",
+                "4 Star Funds": "-",
+                "<3 Star Funds": 6,
+                "1 Star Funds": 6,
+                "2 Star Funds": "-",
+                "3 Star Funds": "-",
+                "Not Rated": "-",
+                "Liquid & Overnight": "-",
+                "UST": 6,
+                "Low Duration": "-",
+                "Short Duration": "-",
+                "Medium Duration": "-",
+                "Logn Duration": "-",
+                "Credit Risk": "-",
+                "Dynamic Funds": "-",
+                "Conservative Hybrid": "-",
+                "Others": "-"
+            },
+            "SIP Book": {
+                "Total SIP Value": "-",
+                "Equity": "-",
+                "Debt": "-",
+                "Others": "-",
+                "5 Star": "-",
+                "4 Star": "-",
+                "<3 Star": "-",
+                "Not Rated": "-"
+            }
+        },
+        {
+            "Client Name": "Pradeep Pandey",
+            "Email": "PradeepPandey@gmail.com",
+            "Mobile": 987654321,
+            "Basic Details": {
+                "AUM": "₹5,10,86,234",
+                "Net Inflow YTD (without MTM)": "₹1,11,000",
+                "Net Inflow Growth (without MTM)": "-",
+                "Since Inception Returns": "63%",
+                "RiskScore": 14
+            },
+            "Asset Allocation Risk": {
+                "ABC Number": "86-14-0",
+                "Equity Exposure": 86,
+                "Target Exposure": 67.8,
+                "Equity Exposure Deviation": 18,
+                "Debt Exposure": 14,
+                "Gold & Others Exposure": "-"
+            },
+            "Cash Allocation": {
+                "Overnight/Liquid Exposure": 3
+            },
+            "Portfolio Quality Risk": {
+                "5 star rated funds": 26,
+                "4 star rated funds": 5,
+                "Low Rated Fund": 57,
+                "Not Rated Fund Exposure": 12,
+                "FundsIndia Select Fund Exposure": 25
+            },
+            "Diversification Risk": {
+                "Highest AMC Exposure": "35%",
+                "Highest Fund Exposure": "19%",
+                "2nd Highest Fund Exposure": "15%", 
+                "Total Number of Non Debt Funds": 50,
+                "Total Number of Funds": 71
+            },
+            "Liquidity" : {
+                "% of Portfolio under lock-in": "-",
+                "ELSS Exposure":  8
+            },
+            "Cost": {
+                "Portfolio Expense Ratio": 1.6
+            },
+            "Equity Monitor": {
+                "Equity Exposure": 86,
+                "Active Large Cap Fund Exposure": 8,
+                "Sector/Thematic Exposure": 10,
+                "Small Cap Exposure": 5,
+                "5 Star Funds": 25,
+                "4 Star Funds": 5,
+                "<3 Star Funds": 44,
+                "1 Star Funds": 4,
+                "2 Star Funds": 5,
+                "3 Star Funds": 35,
+                "Not Rated": 12,
+                "Blend": 21,
+                "Quality": 3,
+                "Value": 2,
+                "Mid & Small": 33,
+                "Global": 16,
+                "Others": 11
+            },
+            "Debt Monitor": {
+                "Debt Exposure": 14,
+                "Net YTM": 7.38,
+                "% of AAA Equivalent": 90,
+                "5 Star Funds": 1,
+                "4 Star Funds": "-",
+                "<3 Star Funds": 13,
+                "1 Star Funds": 2,
+                "2 Star Funds": 2,
+                "3 Star Funds": 8,
+                "Not Rated": "-",
+                "Liquid & Overnight": "-",
+                "UST": "-",
+                "Low Duration": 1,
+                "Short Duration": 1,
+                "Medium Duration": "-",
+                "Logn Duration": 12,
+                "Credit Risk": "-",
+                "Dynamic Funds": "-",
+                "Conservative Hybrid": "-",
+                "Others": "-"
+            },
+            "SIP Book": {
+                "Total SIP Value": "18,500",
+                "Equity": "18,500",
+                "Debt": "-",
+                "Others": "-",
+                "5 Star": "2,000",
+                "4 Star": "1,000",
+                "<3 Star": "15,500",
+                "Not Rated": "-"
+            }
+        },
+        {
+            "Client Name": "Madhukar Jain",
+            "Email": "MadhukarJain@gmail.com",
+            "Mobile": 987654321,
+            "Basic Details": {
+                "AUM": "₹47,25,488",
+                "Net Inflow YTD (without MTM)": "₹30,000",
+                "Net Inflow Growth (without MTM)": "1%",
+                "Since Inception Returns": "14%",
+                "RiskScore": 11
+            },
+            "Asset Allocation Risk": {
+                "ABC Number": "100-0-0",
+                "Equity Exposure": 100,
+                "Target Exposure": 50,
+                "Equity Exposure Deviation": 50,
+                "Debt Exposure": "-",
+                "Gold & Others Exposure": "-"
+            },
+            "Cash Allocation": {
+                "Overnight/Liquid Exposure": "-"
+            },
+            "Portfolio Quality Risk": {
+                "5 star rated funds": 16,
+                "4 star rated funds": "-",
+                "Low Rated Fund": 46,
+                "Not Rated Fund Exposure": 28,
+                "FundsIndia Select Fund Exposure": 26
+            },
+            "Diversification Risk": {
+                "Highest AMC Exposure": "54%",
+                "Highest Fund Exposure": "28%",
+                "2nd Highest Fund Exposure": "27%", 
+                "Total Number of Non Debt Funds": 3,
+                "Total Number of Funds": 8
+            },
+            "Liquidity" : {
+                "% of Portfolio under lock-in": "-",
+                "ELSS Exposure":  33
+            },
+            "Cost": {
+                "Portfolio Expense Ratio": 1.8
+            },
+            "Equity Monitor": {
+                "Equity Exposure": 100,
+                "Active Large Cap Fund Exposure": 26,
+                "Sector/Thematic Exposure": "-",
+                "Small Cap Exposure": "-",
+                "5 Star Funds": 26,
+                "4 Star Funds": "-",
+                "<3 Star Funds": 46,
+                "1 Star Funds": 2,
+                "2 Star Funds": 16,
+                "3 Star Funds": 28,
+                "Not Rated": 28,
+                "Blend": 73,
+                "Quality": "-",
+                "Value": "-",
+                "Mid & Small": "-",
+                "Global": "-",
+                "Others": 27
+            },
+            "Debt Monitor": {
+                "Debt Exposure": "-",
+                "Net YTM": "-",
+                "% of AAA Equivalent": "-",
+                "5 Star Funds": "-",
+                "4 Star Funds": "-",
+                "<3 Star Funds": "-",
+                "1 Star Funds": "-",
+                "2 Star Funds": "-",
+                "3 Star Funds": "-",
+                "Not Rated": "-",
+                "Liquid & Overnight": "-",
+                "UST": "-",
+                "Low Duration": "-",
+                "Short Duration": "-",
+                "Medium Duration": "-",
+                "Logn Duration": "-",
+                "Credit Risk": "-",
+                "Dynamic Funds": "-",
+                "Conservative Hybrid": "-",
+                "Others": "-"
+            },
+            "SIP Book": {
+                "Total SIP Value": "10,000",
+                "Equity": "10,000",
+                "Debt": "-",
+                "Others": "-",
+                "5 Star": "10,000",
+                "4 Star": "-",
+                "<3 Star": "-",
+                "Not Rated": "-"
+            }
+        },
+        {
+            "Client Name": "Naveen Kumar K",
+            "Email": "naveenkumark@gmail.com",
+            "Mobile": 987654321,
+            "Basic Details": {
+                "AUM": "₹31,14,580",
+                "Net Inflow YTD (without MTM)": "₹5,34,000",
+                "Net Inflow Growth (without MTM)": "22%",
+                "Since Inception Returns": "₹22%",
+                "RiskScore": 7
+            },
+            "Asset Allocation Risk": {
+                "ABC Number": "94-6-0",
+                "Equity Exposure": 94,
+                "Target Exposure": 70,
+                "Equity Exposure Deviation": 24,
+                "Debt Exposure": 6,
+                "Gold & Others Exposure": "-"
+            },
+            "Cash Allocation": {
+                "Overnight/Liquid Exposure": 3
+            },
+            "Portfolio Quality Risk": {
+                "5 star rated funds": 48,
+                "4 star rated funds": 3,
+                "Low Rated Fund": 32,
+                "Not Rated Fund Exposure": 17,
+                "FundsIndia Select Fund Exposure": 45
+            },
+            "Diversification Risk": {
+                "Highest AMC Exposure": "23%",
+                "Highest Fund Exposure": "23%",
+                "2nd Highest Fund Exposure": "10%", 
+                "Total Number of Non Debt Funds": 2,
+                "Total Number of Funds": 20
+            },
+            "Liquidity" : {
+                "% of Portfolio under lock-in": "-",
+                "ELSS Exposure":  37
+            },
+            "Cost": {
+                "Portfolio Expense Ratio": 1.3
+            },
+            "Equity Monitor": {
+                "Equity Exposure": 94,
+                "Active Large Cap Fund Exposure": "-",
+                "Sector/Thematic Exposure": 7,
+                "Small Cap Exposure": "-",
+                "5 Star Funds": 42,
+                "4 Star Funds": 3,
+                "<3 Star Funds": 32,
+                "1 Star Funds": "-",
+                "2 Star Funds": 6,
+                "3 Star Funds": 25,
+                "Not Rated": 17,
+                "Blend": 60,
+                "Quality": 3,
+                "Value": "-",
+                "Mid & Small": 10,
+                "Global": "-",
+                "Others": 21
+            },
+            "Debt Monitor": {
+                "Debt Exposure": 6,
+                "Net YTM": 7.00,
+                "% of AAA Equivalent": 94,
+                "5 Star Funds": 6,
+                "4 Star Funds": "-",
+                "<3 Star Funds": "-",
+                "1 Star Funds": "-",
+                "2 Star Funds": "-",
+                "3 Star Funds": "-",
+                "Not Rated": "-",
+                "Liquid & Overnight": 3,
+                "UST": "-",
+                "Low Duration": "-",
+                "Short Duration": 3,
+                "Medium Duration": "-",
+                "Logn Duration": "-",
+                "Credit Risk": "-",
+                "Dynamic Funds": "-",
+                "Conservative Hybrid": "-",
+                "Others": "-"
+            },
+            "SIP Book": {
+                "Total SIP Value": "-",
+                "Equity": "-",
+                "Debt": "-",
+                "Others": "-",
+                "5 Star": "-",
+                "4 Star": "-",
+                "<3 Star": "-",
+                "Not Rated": "-"
+            }
+        },
+
+        {
+            "Client Name": "Sameeraudarya",
+            "Email": "Sameeraudarya@gmail.com",
+            "Mobile": 987654321,
+            "Basic Details": {
+                "AUM": "₹50,08,290",
+                "Net Inflow YTD (without MTM)": "₹-15,14,054",
+                "Net Inflow Growth (without MTM)": "-27%",
+                "Since Inception Returns": "₹43%",
+                "RiskScore": 9
+            },
+            "Asset Allocation Risk": {
+                "ABC Number": "100-0-0",
+                "Equity Exposure": 100,
+                "Target Exposure": 80,
+                "Equity Exposure Deviation": 20,
+                "Debt Exposure": "-",
+                "Gold & Others Exposure": "-"
+            },
+            "Cash Allocation": {
+                "Overnight/Liquid Exposure": "-"
+            },
+            "Portfolio Quality Risk": {
+                "5 star rated funds": 5,
+                "4 star rated funds": "-",
+                "Low Rated Fund": 94,
+                "Not Rated Fund Exposure": 1,
+                "FundsIndia Select Fund Exposure": 4
+            },
+            "Diversification Risk": {
+                "Highest AMC Exposure": "31%",
+                "Highest Fund Exposure": "27%",
+                "2nd Highest Fund Exposure": "20%", 
+                "Total Number of Non Debt Funds": 6,
+                "Total Number of Funds": 16
+            },
+            "Liquidity" : {
+                "% of Portfolio under lock-in": "-",
+                "ELSS Exposure":  5
+            },
+            "Cost": {
+                "Portfolio Expense Ratio": 1.7
+            },
+            "Equity Monitor": {
+                "Equity Exposure": 100,
+                "Active Large Cap Fund Exposure": 18,
+                "Sector/Thematic Exposure": "-",
+                "Small Cap Exposure": 5,
+                "5 Star Funds": 4,
+                "4 Star Funds": "-",
+                "<3 Star Funds": 94,
+                "1 Star Funds": 1,
+                "2 Star Funds": 11,
+                "3 Star Funds": 82,
+                "Not Rated": 1,
+                "Blend": 53,
+                "Quality": "-",
+                "Value": 4,
+                "Mid & Small": 37,
+                "Global": 1,
+                "Others": 5
+            },
+            "Debt Monitor": {
+                "Debt Exposure": "-",
+                "Net YTM": "-",
+                "% of AAA Equivalent": "-",
+                "5 Star Funds": "-",
+                "4 Star Funds": "-",
+                "<3 Star Funds": "-",
+                "1 Star Funds": "-",
+                "2 Star Funds": "-",
+                "3 Star Funds": "-",
+                "Not Rated": "-",
+                "Liquid & Overnight": "-",
+                "UST": "-",
+                "Low Duration": "-",
+                "Short Duration": "-",
+                "Medium Duration": "-",
+                "Logn Duration": "-",
+                "Credit Risk": "-",
+                "Dynamic Funds": "-",
+                "Conservative Hybrid": "-",
+                "Others": "-"
+            },
+            "SIP Book": {
+                "Total SIP Value": "2,000",
+                "Equity": "2,000",
+                "Debt": "-",
+                "Others": "-",
+                "5 Star": "-",
+                "4 Star": "-",
+                "<3 Star": "2,000",
+                "Not Rated": "-"
+            }
+        },
+
+        {
+            "Client Name": "Anand Raja",
+            "Email": "AnandRaja@gmail.com",
+            "Mobile": 987654321,
+            "Basic Details": {
+                "AUM": "₹25,32,887",
+                "Net Inflow YTD (without MTM)": "-",
+                "Net Inflow Growth (without MTM)": "-",
+                "Since Inception Returns": "15%",
+                "RiskScore": 12
+            },
+            "Asset Allocation Risk": {
+                "ABC Number": "94-6-0",
+                "Equity Exposure": 94,
+                "Target Exposure": 80,
+                "Equity Exposure Deviation": 14,
+                "Debt Exposure": 6,
+                "Gold & Others Exposure": "-"
+            },
+            "Cash Allocation": {
+                "Overnight/Liquid Exposure": "-"
+            },
+            "Portfolio Quality Risk": {
+                "5 star rated funds": 18,
+                "4 star rated funds": 10,
+                "Low Rated Fund": 50,
+                "Not Rated Fund Exposure": 22,
+                "FundsIndia Select Fund Exposure": 18
+            },
+            "Diversification Risk": {
+                "Highest AMC Exposure": "16%",
+                "Highest Fund Exposure": "7%",
+                "2nd Highest Fund Exposure": "7%", 
+                "Total Number of Non Debt Funds": 14,
+                "Total Number of Funds": 31
+            },
+            "Liquidity" : {
+                "% of Portfolio under lock-in": "-",
+                "ELSS Exposure":  18
+            },
+            "Cost": {
+                "Portfolio Expense Ratio": 1.8
+            },
+            "Equity Monitor": {
+                "Equity Exposure": 94,
+                "Active Large Cap Fund Exposure": 19,
+                "Sector/Thematic Exposure": 15,
+                "Small Cap Exposure": 2,
+                "5 Star Funds": 18,
+                "4 Star Funds": 10,
+                "<3 Star Funds": 44,
+                "1 Star Funds": 4,
+                "2 Star Funds": 18,
+                "3 Star Funds": 22,
+                "Not Rated": 22,
+                "Blend": 38,
+                "Quality": 13,
+                "Value": 5,
+                "Mid & Small": 8,
+                "Global": "-",
+                "Others": 21
+            },
+            "Debt Monitor": {
+                "Debt Exposure": 6,
+                "Net YTM": 6.21,
+                "% of AAA Equivalent": 92,
+                "5 Star Funds": "-",
+                "4 Star Funds": "-",
+                "<3 Star Funds": 6,
+                "1 Star Funds": 6,
+                "2 Star Funds": "-",
+                "3 Star Funds": "-",
+                "Not Rated": "-",
+                "Liquid & Overnight": "-",
+                "UST": 6,
+                "Low Duration": "-",
+                "Short Duration": "-",
+                "Medium Duration": "-",
+                "Logn Duration": "-",
+                "Credit Risk": "-",
+                "Dynamic Funds": "-",
+                "Conservative Hybrid": "-",
+                "Others": "-"
+            },
+            "SIP Book": {
+                "Total SIP Value": "-",
+                "Equity": "-",
+                "Debt": "-",
+                "Others": "-",
+                "5 Star": "-",
+                "4 Star": "-",
+                "<3 Star": "-",
+                "Not Rated": "-"
+            }
+        },
+        {
+            "Client Name": "Pradeep Pandey",
+            "Email": "PradeepPandey@gmail.com",
+            "Mobile": 987654321,
+            "Basic Details": {
+                "AUM": "₹5,10,86,234",
+                "Net Inflow YTD (without MTM)": "₹1,11,000",
+                "Net Inflow Growth (without MTM)": "-",
+                "Since Inception Returns": "63%",
+                "RiskScore": 14
+            },
+            "Asset Allocation Risk": {
+                "ABC Number": "86-14-0",
+                "Equity Exposure": 86,
+                "Target Exposure": 67.8,
+                "Equity Exposure Deviation": 18,
+                "Debt Exposure": 14,
+                "Gold & Others Exposure": "-"
+            },
+            "Cash Allocation": {
+                "Overnight/Liquid Exposure": 3
+            },
+            "Portfolio Quality Risk": {
+                "5 star rated funds": 26,
+                "4 star rated funds": 5,
+                "Low Rated Fund": 57,
+                "Not Rated Fund Exposure": 12,
+                "FundsIndia Select Fund Exposure": 25
+            },
+            "Diversification Risk": {
+                "Highest AMC Exposure": "35%",
+                "Highest Fund Exposure": "19%",
+                "2nd Highest Fund Exposure": "15%", 
+                "Total Number of Non Debt Funds": 50,
+                "Total Number of Funds": 71
+            },
+            "Liquidity" : {
+                "% of Portfolio under lock-in": "-",
+                "ELSS Exposure":  8
+            },
+            "Cost": {
+                "Portfolio Expense Ratio": 1.6
+            },
+            "Equity Monitor": {
+                "Equity Exposure": 86,
+                "Active Large Cap Fund Exposure": 8,
+                "Sector/Thematic Exposure": 10,
+                "Small Cap Exposure": 5,
+                "5 Star Funds": 25,
+                "4 Star Funds": 5,
+                "<3 Star Funds": 44,
+                "1 Star Funds": 4,
+                "2 Star Funds": 5,
+                "3 Star Funds": 35,
+                "Not Rated": 12,
+                "Blend": 21,
+                "Quality": 3,
+                "Value": 2,
+                "Mid & Small": 33,
+                "Global": 16,
+                "Others": 11
+            },
+            "Debt Monitor": {
+                "Debt Exposure": 14,
+                "Net YTM": 7.38,
+                "% of AAA Equivalent": 90,
+                "5 Star Funds": 1,
+                "4 Star Funds": "-",
+                "<3 Star Funds": 13,
+                "1 Star Funds": 2,
+                "2 Star Funds": 2,
+                "3 Star Funds": 8,
+                "Not Rated": "-",
+                "Liquid & Overnight": "-",
+                "UST": "-",
+                "Low Duration": 1,
+                "Short Duration": 1,
+                "Medium Duration": "-",
+                "Logn Duration": 12,
+                "Credit Risk": "-",
+                "Dynamic Funds": "-",
+                "Conservative Hybrid": "-",
+                "Others": "-"
+            },
+            "SIP Book": {
+                "Total SIP Value": "18,500",
+                "Equity": "18,500",
+                "Debt": "-",
+                "Others": "-",
+                "5 Star": "2,000",
+                "4 Star": "1,000",
+                "<3 Star": "15,500",
+                "Not Rated": "-"
+            }
+        },
+        {
+            "Client Name": "Madhukar Jain",
+            "Email": "MadhukarJain@gmail.com",
+            "Mobile": 987654321,
+            "Basic Details": {
+                "AUM": "₹47,25,488",
+                "Net Inflow YTD (without MTM)": "₹30,000",
+                "Net Inflow Growth (without MTM)": "1%",
+                "Since Inception Returns": "14%",
+                "RiskScore": 11
+            },
+            "Asset Allocation Risk": {
+                "ABC Number": "100-0-0",
+                "Equity Exposure": 100,
+                "Target Exposure": 50,
+                "Equity Exposure Deviation": 50,
+                "Debt Exposure": "-",
+                "Gold & Others Exposure": "-"
+            },
+            "Cash Allocation": {
+                "Overnight/Liquid Exposure": "-"
+            },
+            "Portfolio Quality Risk": {
+                "5 star rated funds": 16,
+                "4 star rated funds": "-",
+                "Low Rated Fund": 46,
+                "Not Rated Fund Exposure": 28,
+                "FundsIndia Select Fund Exposure": 26
+            },
+            "Diversification Risk": {
+                "Highest AMC Exposure": "54%",
+                "Highest Fund Exposure": "28%",
+                "2nd Highest Fund Exposure": "27%", 
+                "Total Number of Non Debt Funds": 3,
+                "Total Number of Funds": 8
+            },
+            "Liquidity" : {
+                "% of Portfolio under lock-in": "-",
+                "ELSS Exposure":  33
+            },
+            "Cost": {
+                "Portfolio Expense Ratio": 1.8
+            },
+            "Equity Monitor": {
+                "Equity Exposure": 100,
+                "Active Large Cap Fund Exposure": 26,
+                "Sector/Thematic Exposure": "-",
+                "Small Cap Exposure": "-",
+                "5 Star Funds": 26,
+                "4 Star Funds": "-",
+                "<3 Star Funds": 46,
+                "1 Star Funds": 2,
+                "2 Star Funds": 16,
+                "3 Star Funds": 28,
+                "Not Rated": 28,
+                "Blend": 73,
+                "Quality": "-",
+                "Value": "-",
+                "Mid & Small": "-",
+                "Global": "-",
+                "Others": 27
+            },
+            "Debt Monitor": {
+                "Debt Exposure": "-",
+                "Net YTM": "-",
+                "% of AAA Equivalent": "-",
+                "5 Star Funds": "-",
+                "4 Star Funds": "-",
+                "<3 Star Funds": "-",
+                "1 Star Funds": "-",
+                "2 Star Funds": "-",
+                "3 Star Funds": "-",
+                "Not Rated": "-",
+                "Liquid & Overnight": "-",
+                "UST": "-",
+                "Low Duration": "-",
+                "Short Duration": "-",
+                "Medium Duration": "-",
+                "Logn Duration": "-",
+                "Credit Risk": "-",
+                "Dynamic Funds": "-",
+                "Conservative Hybrid": "-",
+                "Others": "-"
+            },
+            "SIP Book": {
+                "Total SIP Value": "10,000",
+                "Equity": "10,000",
+                "Debt": "-",
+                "Others": "-",
+                "5 Star": "10,000",
+                "4 Star": "-",
+                "<3 Star": "-",
+                "Not Rated": "-"
+            }
+        }
+    ]
+}
